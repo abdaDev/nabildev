@@ -1,1 +1,1 @@
-https://play.google.com/store/apps/details?id=com.jimaapps.city.coach.bus.simulator.driving
+com.jimaapps.city.coach.bus.simulator.driving
